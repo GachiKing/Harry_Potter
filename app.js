@@ -133,7 +133,7 @@ function houseColor(card, house) {
   } else if (house === "Hufflepuff") {
     card.style.backgroundColor = "rgb(255,206,77)";
   } else if (house === "Ravenclaw") {
-    card.style.backgroundColor = "   ";
+    card.style.backgroundColor = "rgb(33,47,88)";
   } else {
     card.style.backgroundColor = "gray";
   }
